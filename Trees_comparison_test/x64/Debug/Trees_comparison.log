@@ -1,0 +1,11 @@
+﻿  AVL.cpp
+c:\users\julia\source\repos\trees_comparison\avl.cpp(83): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\julia\source\repos\trees_comparison\avl.cpp(222): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\julia\source\repos\trees_comparison\avl.cpp(223): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\julia\source\repos\trees_comparison\avl.cpp(232): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\julia\source\repos\trees_comparison\avl.cpp(233): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Splay.cpp
+  Создание кода...
+c:\users\julia\source\repos\trees_comparison\avl.cpp(114): warning C4715: bstree::find: значение возвращается не при всех путях выполнения
+c:\users\julia\source\repos\trees_comparison\avl.cpp(162): warning C4715: bstree::del: значение возвращается не при всех путях выполнения
+  Trees_comparison.vcxproj -> C:\Users\Julia\source\repos\Trees_comparison\x64\Debug\Trees_comparison.lib

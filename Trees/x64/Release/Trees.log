@@ -1,0 +1,14 @@
+﻿  AVL.cpp
+c:\users\julia\source\repos\trees_comparison\avl.cpp(83): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\julia\source\repos\trees_comparison\avl.cpp(222): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\julia\source\repos\trees_comparison\avl.cpp(223): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\julia\source\repos\trees_comparison\avl.cpp(232): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\julia\source\repos\trees_comparison\avl.cpp(233): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Splay.cpp
+  main.cpp
+  Создание кода
+c:\users\julia\source\repos\trees_comparison\avl.cpp(114): warning C4715: bstree::find: значение возвращается не при всех путях выполнения
+c:\users\julia\source\repos\trees_comparison\avl.cpp(162): warning C4715: bstree::del: значение возвращается не при всех путях выполнения
+  All 271 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Trees.vcxproj -> C:\Users\Julia\source\repos\x64\Release\Trees.exe
